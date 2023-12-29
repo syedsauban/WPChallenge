@@ -1,0 +1,190 @@
+[2023-12-29 12:27:38 : INFO] - Re_Smush_It_Task server status: Online 
+[2023-12-29 12:27:42 : INFO] - A total of 26 tasks of type smush found and will be processed in this iteration 
+[2023-12-29 12:27:42 : DEBUG] - Lock option (updraft_lock_smush, wpo2_options) was created in the database 
+[2023-12-29 12:27:42 : INFO] - Lock (updraft_lock_smush, wpo2_options) acquired after initialising the database 
+[2023-12-29 12:27:42 : INFO] - Processing task with ID : 1, and type 'smush' 
+[2023-12-29 12:27:42 : INFO] - Re_Smush_It_Task - Attachment ID : 7, Started on : December 29, 2023 12:27:41 
+[2023-12-29 12:27:42 : INFO] - File: S.png, Compression quality: 60 
+[2023-12-29 12:27:42 : INFO] - Backing up the original image - 2023/12/S-updraft-pre-smush-original.png 
+[2023-12-29 12:27:42 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-29 12:27:42 : INFO] - Successfully optimized the image - /home/vol14_1/ezyro.com/ezyro_35677587/htdocs/wp-content/uploads/2023/12/S.png.The file was compressed from 14.41 KB to 9.10 KB, saving 36.86 percent, using WP-Optimize 
+[2023-12-29 12:27:42 : INFO] - Completed processing task with ID : 1, and type 'smush' 
+[2023-12-29 12:27:42 : INFO] - Processing task with ID : 2, and type 'smush' 
+[2023-12-29 12:27:42 : INFO] - Re_Smush_It_Task - Attachment ID : 8, Started on : December 29, 2023 12:27:41 
+[2023-12-29 12:27:42 : INFO] - File: S-1.png, Compression quality: 60 
+[2023-12-29 12:27:43 : INFO] - Backing up the original image - 2023/12/S-1-updraft-pre-smush-original.png 
+[2023-12-29 12:27:43 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-29 12:27:43 : INFO] - Successfully optimized the image - /home/vol14_1/ezyro.com/ezyro_35677587/htdocs/wp-content/uploads/2023/12/S-1.png.The file was compressed from 5.27 KB to 3.68 KB, saving 30.16 percent, using WP-Optimize 
+[2023-12-29 12:27:43 : INFO] - Completed processing task with ID : 2, and type 'smush' 
+[2023-12-29 12:27:43 : INFO] - Processing task with ID : 3, and type 'smush' 
+[2023-12-29 12:27:43 : INFO] - Re_Smush_It_Task - Attachment ID : 23, Started on : December 29, 2023 12:27:41 
+[2023-12-29 12:27:43 : INFO] - File: about-01-free-img.jpg, Compression quality: 60 
+[2023-12-29 12:27:43 : INFO] - Backing up the original image - 2021/05/about-01-free-img-updraft-pre-smush-original.jpg 
+[2023-12-29 12:27:43 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-29 12:27:43 : INFO] - Successfully optimized the image - /home/vol14_1/ezyro.com/ezyro_35677587/htdocs/wp-content/uploads/2021/05/about-01-free-img.jpg.The file was compressed from 32.15 KB to 27.20 KB, saving 15.4 percent, using WP-Optimize 
+[2023-12-29 12:27:43 : INFO] - Completed processing task with ID : 3, and type 'smush' 
+[2023-12-29 12:27:43 : INFO] - Processing task with ID : 4, and type 'smush' 
+[2023-12-29 12:27:43 : INFO] - Re_Smush_It_Task - Attachment ID : 24, Started on : December 29, 2023 12:27:41 
+[2023-12-29 12:27:43 : INFO] - File: bg-01-free-img.jpg, Compression quality: 60 
+[2023-12-29 12:27:43 : INFO] - Backing up the original image - 2021/05/bg-01-free-img-updraft-pre-smush-original.jpg 
+[2023-12-29 12:27:43 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-29 12:27:43 : INFO] - Successfully optimized the image - /home/vol14_1/ezyro.com/ezyro_35677587/htdocs/wp-content/uploads/2021/05/bg-01-free-img.jpg.The file was compressed from 192.21 KB to 152.91 KB, saving 20.45 percent, using WP-Optimize 
+[2023-12-29 12:27:43 : INFO] - Completed processing task with ID : 4, and type 'smush' 
+[2023-12-29 12:27:43 : INFO] - Processing task with ID : 5, and type 'smush' 
+[2023-12-29 12:27:43 : INFO] - Re_Smush_It_Task - Attachment ID : 25, Started on : December 29, 2023 12:27:41 
+[2023-12-29 12:27:43 : INFO] - File: portfolio-01-free-img.jpg, Compression quality: 60 
+[2023-12-29 12:27:44 : INFO] - Backing up the original image - 2021/05/portfolio-01-free-img-updraft-pre-smush-original.jpg 
+[2023-12-29 12:27:44 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-29 12:27:44 : INFO] - Successfully optimized the image - /home/vol14_1/ezyro.com/ezyro_35677587/htdocs/wp-content/uploads/2021/05/portfolio-01-free-img.jpg.The file was compressed from 32.73 KB to 16.25 KB, saving 50.36 percent, using WP-Optimize 
+[2023-12-29 12:27:44 : INFO] - Completed processing task with ID : 5, and type 'smush' 
+[2023-12-29 12:27:44 : INFO] - Processing task with ID : 6, and type 'smush' 
+[2023-12-29 12:27:44 : INFO] - Re_Smush_It_Task - Attachment ID : 26, Started on : December 29, 2023 12:27:41 
+[2023-12-29 12:27:44 : INFO] - File: portfolio-02-free-img.jpg, Compression quality: 60 
+[2023-12-29 12:27:44 : INFO] - Backing up the original image - 2021/05/portfolio-02-free-img-updraft-pre-smush-original.jpg 
+[2023-12-29 12:27:44 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-29 12:27:44 : INFO] - Successfully optimized the image - /home/vol14_1/ezyro.com/ezyro_35677587/htdocs/wp-content/uploads/2021/05/portfolio-02-free-img.jpg.The file was compressed from 50.13 KB to 22.85 KB, saving 54.41 percent, using WP-Optimize 
+[2023-12-29 12:27:44 : INFO] - Completed processing task with ID : 6, and type 'smush' 
+[2023-12-29 12:27:44 : INFO] - Processing task with ID : 7, and type 'smush' 
+[2023-12-29 12:27:44 : INFO] - Re_Smush_It_Task - Attachment ID : 27, Started on : December 29, 2023 12:27:41 
+[2023-12-29 12:27:44 : INFO] - File: portfolio-03-free-img.jpg, Compression quality: 60 
+[2023-12-29 12:27:44 : INFO] - Backing up the original image - 2021/05/portfolio-03-free-img-updraft-pre-smush-original.jpg 
+[2023-12-29 12:27:44 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-29 12:27:44 : INFO] - Successfully optimized the image - /home/vol14_1/ezyro.com/ezyro_35677587/htdocs/wp-content/uploads/2021/05/portfolio-03-free-img.jpg.The file was compressed from 29.71 KB to 15.62 KB, saving 47.4 percent, using WP-Optimize 
+[2023-12-29 12:27:44 : INFO] - Completed processing task with ID : 7, and type 'smush' 
+[2023-12-29 12:27:44 : INFO] - Processing task with ID : 8, and type 'smush' 
+[2023-12-29 12:27:44 : INFO] - Re_Smush_It_Task - Attachment ID : 28, Started on : December 29, 2023 12:27:41 
+[2023-12-29 12:27:44 : INFO] - File: portfolio-04-free-img.jpg, Compression quality: 60 
+[2023-12-29 12:27:44 : INFO] - Backing up the original image - 2021/05/portfolio-04-free-img-updraft-pre-smush-original.jpg 
+[2023-12-29 12:27:44 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-29 12:27:44 : INFO] - Successfully optimized the image - /home/vol14_1/ezyro.com/ezyro_35677587/htdocs/wp-content/uploads/2021/05/portfolio-04-free-img.jpg.The file was compressed from 37.80 KB to 18.56 KB, saving 50.89 percent, using WP-Optimize 
+[2023-12-29 12:27:44 : INFO] - Completed processing task with ID : 8, and type 'smush' 
+[2023-12-29 12:27:44 : INFO] - Processing task with ID : 9, and type 'smush' 
+[2023-12-29 12:27:44 : INFO] - Re_Smush_It_Task - Attachment ID : 29, Started on : December 29, 2023 12:27:41 
+[2023-12-29 12:27:44 : INFO] - File: portfolio-05-free-img.jpg, Compression quality: 60 
+[2023-12-29 12:27:44 : INFO] - Backing up the original image - 2021/05/portfolio-05-free-img-updraft-pre-smush-original.jpg 
+[2023-12-29 12:27:44 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-29 12:27:44 : INFO] - Successfully optimized the image - /home/vol14_1/ezyro.com/ezyro_35677587/htdocs/wp-content/uploads/2021/05/portfolio-05-free-img.jpg.The file was compressed from 32.87 KB to 14.59 KB, saving 55.6 percent, using WP-Optimize 
+[2023-12-29 12:27:44 : INFO] - Completed processing task with ID : 9, and type 'smush' 
+[2023-12-29 12:27:44 : INFO] - Processing task with ID : 10, and type 'smush' 
+[2023-12-29 12:27:44 : INFO] - Re_Smush_It_Task - Attachment ID : 30, Started on : December 29, 2023 12:27:41 
+[2023-12-29 12:27:44 : INFO] - File: portfolio-06-free-img.jpg, Compression quality: 60 
+[2023-12-29 12:27:45 : INFO] - Backing up the original image - 2021/05/portfolio-06-free-img-updraft-pre-smush-original.jpg 
+[2023-12-29 12:27:45 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-29 12:27:45 : INFO] - Successfully optimized the image - /home/vol14_1/ezyro.com/ezyro_35677587/htdocs/wp-content/uploads/2021/05/portfolio-06-free-img.jpg.The file was compressed from 27.44 KB to 15.22 KB, saving 44.52 percent, using WP-Optimize 
+[2023-12-29 12:27:45 : INFO] - Completed processing task with ID : 10, and type 'smush' 
+[2023-12-29 12:27:45 : INFO] - Processing task with ID : 11, and type 'smush' 
+[2023-12-29 12:27:45 : INFO] - Re_Smush_It_Task - Attachment ID : 31, Started on : December 29, 2023 12:27:41 
+[2023-12-29 12:27:45 : INFO] - File: bg-02-free-img.png, Compression quality: 60 
+[2023-12-29 12:27:45 : INFO] - Backing up the original image - 2021/05/bg-02-free-img-updraft-pre-smush-original.png 
+[2023-12-29 12:27:45 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-29 12:27:45 : INFO] - Successfully optimized the image - /home/vol14_1/ezyro.com/ezyro_35677587/htdocs/wp-content/uploads/2021/05/bg-02-free-img.png.The file was compressed from 56.10 KB to 56.10 KB, saving 0 percent, using WP-Optimize 
+[2023-12-29 12:27:45 : INFO] - Completed processing task with ID : 11, and type 'smush' 
+[2023-12-29 12:27:45 : INFO] - Processing task with ID : 12, and type 'smush' 
+[2023-12-29 12:27:45 : INFO] - Re_Smush_It_Task - Attachment ID : 32, Started on : December 29, 2023 12:27:41 
+[2023-12-29 12:27:45 : INFO] - File: favicon-free-img.png, Compression quality: 60 
+[2023-12-29 12:27:45 : INFO] - Backing up the original image - 2021/05/favicon-free-img-updraft-pre-smush-original.png 
+[2023-12-29 12:27:45 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-29 12:27:45 : INFO] - Successfully optimized the image - /home/vol14_1/ezyro.com/ezyro_35677587/htdocs/wp-content/uploads/2021/05/favicon-free-img.png.The file was compressed from 5.59 KB to 5.59 KB, saving 0 percent, using WP-Optimize 
+[2023-12-29 12:27:45 : INFO] - Completed processing task with ID : 12, and type 'smush' 
+[2023-12-29 12:27:45 : INFO] - Processing task with ID : 13, and type 'smush' 
+[2023-12-29 12:27:45 : INFO] - Re_Smush_It_Task - Attachment ID : 36, Started on : December 29, 2023 12:27:41 
+[2023-12-29 12:27:45 : INFO] - File: logo-regular-free-img.png, Compression quality: 60 
+[2023-12-29 12:27:45 : INFO] - Backing up the original image - 2021/05/logo-regular-free-img-updraft-pre-smush-original.png 
+[2023-12-29 12:27:45 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-29 12:27:45 : INFO] - Successfully optimized the image - /home/vol14_1/ezyro.com/ezyro_35677587/htdocs/wp-content/uploads/2021/05/logo-regular-free-img.png.The file was compressed from 896 bytes to 896 bytes, saving 0 percent, using WP-Optimize 
+[2023-12-29 12:27:45 : INFO] - Completed processing task with ID : 13, and type 'smush' 
+[2023-12-29 12:27:45 : INFO] - Processing task with ID : 14, and type 'smush' 
+[2023-12-29 12:27:45 : INFO] - Re_Smush_It_Task - Attachment ID : 37, Started on : December 29, 2023 12:27:41 
+[2023-12-29 12:27:45 : INFO] - File: logo-retina-free-img.png, Compression quality: 60 
+[2023-12-29 12:27:46 : INFO] - Backing up the original image - 2021/05/logo-retina-free-img-updraft-pre-smush-original.png 
+[2023-12-29 12:27:46 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-29 12:27:46 : INFO] - Successfully optimized the image - /home/vol14_1/ezyro.com/ezyro_35677587/htdocs/wp-content/uploads/2021/05/logo-retina-free-img.png.The file was compressed from 1.66 KB to 1.66 KB, saving 0 percent, using WP-Optimize 
+[2023-12-29 12:27:46 : INFO] - Completed processing task with ID : 14, and type 'smush' 
+[2023-12-29 12:27:46 : INFO] - Processing task with ID : 15, and type 'smush' 
+[2023-12-29 12:27:46 : INFO] - Re_Smush_It_Task - Attachment ID : 52, Started on : December 29, 2023 12:27:41 
+[2023-12-29 12:27:46 : INFO] - File: arrow-01-free-img.png, Compression quality: 60 
+[2023-12-29 12:27:46 : INFO] - Backing up the original image - 2021/05/arrow-01-free-img-updraft-pre-smush-original.png 
+[2023-12-29 12:27:46 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-29 12:27:46 : INFO] - Successfully optimized the image - /home/vol14_1/ezyro.com/ezyro_35677587/htdocs/wp-content/uploads/2021/05/arrow-01-free-img.png.The file was compressed from 478 bytes to 467 bytes, saving 2.3 percent, using WP-Optimize 
+[2023-12-29 12:27:46 : INFO] - Completed processing task with ID : 15, and type 'smush' 
+[2023-12-29 12:27:46 : INFO] - Processing task with ID : 16, and type 'smush' 
+[2023-12-29 12:27:46 : INFO] - Re_Smush_It_Task - Attachment ID : 78, Started on : December 29, 2023 12:27:41 
+[2023-12-29 12:27:46 : INFO] - File: bg-lines-01-free-img.png, Compression quality: 60 
+[2023-12-29 12:27:46 : INFO] - Backing up the original image - 2021/05/bg-lines-01-free-img-updraft-pre-smush-original.png 
+[2023-12-29 12:27:46 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-29 12:27:46 : INFO] - Successfully optimized the image - /home/vol14_1/ezyro.com/ezyro_35677587/htdocs/wp-content/uploads/2021/05/bg-lines-01-free-img.png.The file was compressed from 106 bytes to 106 bytes, saving 0 percent, using WP-Optimize 
+[2023-12-29 12:27:46 : INFO] - Completed processing task with ID : 16, and type 'smush' 
+[2023-12-29 12:27:46 : INFO] - Processing task with ID : 17, and type 'smush' 
+[2023-12-29 12:27:46 : INFO] - Re_Smush_It_Task - Attachment ID : 207, Started on : December 29, 2023 12:27:42 
+[2023-12-29 12:27:46 : INFO] - File: portfolio-07-free-img.jpg, Compression quality: 60 
+[2023-12-29 12:27:46 : INFO] - Backing up the original image - 2021/05/portfolio-07-free-img-updraft-pre-smush-original.jpg 
+[2023-12-29 12:27:46 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-29 12:27:46 : INFO] - Successfully optimized the image - /home/vol14_1/ezyro.com/ezyro_35677587/htdocs/wp-content/uploads/2021/05/portfolio-07-free-img.jpg.The file was compressed from 39.97 KB to 22.02 KB, saving 44.91 percent, using WP-Optimize 
+[2023-12-29 12:27:46 : INFO] - Completed processing task with ID : 17, and type 'smush' 
+[2023-12-29 12:27:46 : INFO] - Processing task with ID : 18, and type 'smush' 
+[2023-12-29 12:27:46 : INFO] - Re_Smush_It_Task - Attachment ID : 208, Started on : December 29, 2023 12:27:42 
+[2023-12-29 12:27:46 : INFO] - File: portfolio-08-free-img.jpg, Compression quality: 60 
+[2023-12-29 12:27:46 : INFO] - Backing up the original image - 2021/05/portfolio-08-free-img-updraft-pre-smush-original.jpg 
+[2023-12-29 12:27:46 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-29 12:27:46 : INFO] - Successfully optimized the image - /home/vol14_1/ezyro.com/ezyro_35677587/htdocs/wp-content/uploads/2021/05/portfolio-08-free-img.jpg.The file was compressed from 71.35 KB to 33.70 KB, saving 52.77 percent, using WP-Optimize 
+[2023-12-29 12:27:46 : INFO] - Completed processing task with ID : 18, and type 'smush' 
+[2023-12-29 12:27:46 : INFO] - Processing task with ID : 19, and type 'smush' 
+[2023-12-29 12:27:46 : INFO] - Re_Smush_It_Task - Attachment ID : 209, Started on : December 29, 2023 12:27:42 
+[2023-12-29 12:27:46 : INFO] - File: portfolio-09-free-img.jpg, Compression quality: 60 
+[2023-12-29 12:27:47 : INFO] - Backing up the original image - 2021/05/portfolio-09-free-img-updraft-pre-smush-original.jpg 
+[2023-12-29 12:27:47 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-29 12:27:47 : INFO] - Successfully optimized the image - /home/vol14_1/ezyro.com/ezyro_35677587/htdocs/wp-content/uploads/2021/05/portfolio-09-free-img.jpg.The file was compressed from 72.58 KB to 33.18 KB, saving 54.28 percent, using WP-Optimize 
+[2023-12-29 12:27:47 : INFO] - Completed processing task with ID : 19, and type 'smush' 
+[2023-12-29 12:27:47 : INFO] - Processing task with ID : 20, and type 'smush' 
+[2023-12-29 12:27:47 : INFO] - Re_Smush_It_Task - Attachment ID : 264, Started on : December 29, 2023 12:27:42 
+[2023-12-29 12:27:47 : INFO] - File: bg-03-free-img.jpg, Compression quality: 60 
+[2023-12-29 12:27:47 : INFO] - Backing up the original image - 2021/05/bg-03-free-img-updraft-pre-smush-original.jpg 
+[2023-12-29 12:27:47 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-29 12:27:47 : INFO] - Successfully optimized the image - /home/vol14_1/ezyro.com/ezyro_35677587/htdocs/wp-content/uploads/2021/05/bg-03-free-img.jpg.The file was compressed from 78.05 KB to 51.91 KB, saving 33.49 percent, using WP-Optimize 
+[2023-12-29 12:27:47 : INFO] - Completed processing task with ID : 20, and type 'smush' 
+[2023-12-29 12:27:47 : INFO] - Processing task with ID : 21, and type 'smush' 
+[2023-12-29 12:27:47 : INFO] - Re_Smush_It_Task - Attachment ID : 265, Started on : December 29, 2023 12:27:42 
+[2023-12-29 12:27:47 : INFO] - File: bg-04-free-img.jpg, Compression quality: 60 
+[2023-12-29 12:27:47 : INFO] - Backing up the original image - 2021/05/bg-04-free-img-updraft-pre-smush-original.jpg 
+[2023-12-29 12:27:47 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-29 12:27:47 : INFO] - Successfully optimized the image - /home/vol14_1/ezyro.com/ezyro_35677587/htdocs/wp-content/uploads/2021/05/bg-04-free-img.jpg.The file was compressed from 46.26 KB to 36.72 KB, saving 20.63 percent, using WP-Optimize 
+[2023-12-29 12:27:47 : INFO] - Completed processing task with ID : 21, and type 'smush' 
+[2023-12-29 12:27:47 : INFO] - Processing task with ID : 22, and type 'smush' 
+[2023-12-29 12:27:47 : INFO] - Re_Smush_It_Task - Attachment ID : 266, Started on : December 29, 2023 12:27:42 
+[2023-12-29 12:27:47 : INFO] - File: bg-05-free-img.jpg, Compression quality: 60 
+[2023-12-29 12:27:47 : INFO] - Backing up the original image - 2021/05/bg-05-free-img-updraft-pre-smush-original.jpg 
+[2023-12-29 12:27:47 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-29 12:27:47 : INFO] - Successfully optimized the image - /home/vol14_1/ezyro.com/ezyro_35677587/htdocs/wp-content/uploads/2021/05/bg-05-free-img.jpg.The file was compressed from 41.02 KB to 34.10 KB, saving 16.86 percent, using WP-Optimize 
+[2023-12-29 12:27:47 : INFO] - Completed processing task with ID : 22, and type 'smush' 
+[2023-12-29 12:27:47 : INFO] - Processing task with ID : 23, and type 'smush' 
+[2023-12-29 12:27:47 : INFO] - Re_Smush_It_Task - Attachment ID : 271, Started on : December 29, 2023 12:27:42 
+[2023-12-29 12:27:47 : INFO] - File: bg-06-free-img.jpg, Compression quality: 60 
+[2023-12-29 12:27:47 : INFO] - Backing up the original image - 2021/05/bg-06-free-img-updraft-pre-smush-original.jpg 
+[2023-12-29 12:27:47 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-29 12:27:48 : INFO] - Successfully optimized the image - /home/vol14_1/ezyro.com/ezyro_35677587/htdocs/wp-content/uploads/2021/05/bg-06-free-img.jpg.The file was compressed from 27.86 KB to 22.14 KB, saving 20.54 percent, using WP-Optimize 
+[2023-12-29 12:27:48 : INFO] - Completed processing task with ID : 23, and type 'smush' 
+[2023-12-29 12:27:48 : INFO] - Processing task with ID : 24, and type 'smush' 
+[2023-12-29 12:27:48 : INFO] - Re_Smush_It_Task - Attachment ID : 290, Started on : December 29, 2023 12:27:42 
+[2023-12-29 12:27:48 : INFO] - File: social-img.jpg, Compression quality: 60 
+[2023-12-29 12:27:48 : INFO] - Backing up the original image - 2021/05/social-img-updraft-pre-smush-original.jpg 
+[2023-12-29 12:27:48 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-29 12:27:48 : INFO] - Successfully optimized the image - /home/vol14_1/ezyro.com/ezyro_35677587/htdocs/wp-content/uploads/2021/05/social-img.jpg.The file was compressed from 74.52 KB to 41.92 KB, saving 43.75 percent, using WP-Optimize 
+[2023-12-29 12:27:48 : INFO] - Completed processing task with ID : 24, and type 'smush' 
+[2023-12-29 12:27:48 : INFO] - Processing task with ID : 25, and type 'smush' 
+[2023-12-29 12:27:48 : INFO] - Re_Smush_It_Task - Attachment ID : 355, Started on : December 29, 2023 12:27:42 
+[2023-12-29 12:27:48 : INFO] - File: cropped-favicon-free-img.png, Compression quality: 60 
+[2023-12-29 12:27:48 : INFO] - Backing up the original image - 2021/05/cropped-favicon-free-img-updraft-pre-smush-original.png 
+[2023-12-29 12:27:48 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-29 12:27:48 : INFO] - Successfully optimized the image - /home/vol14_1/ezyro.com/ezyro_35677587/htdocs/wp-content/uploads/2021/05/cropped-favicon-free-img.png.The file was compressed from 11.91 KB to 6.06 KB, saving 49.16 percent, using WP-Optimize 
+[2023-12-29 12:27:48 : INFO] - Completed processing task with ID : 25, and type 'smush' 
+[2023-12-29 12:27:48 : INFO] - Processing task with ID : 26, and type 'smush' 
+[2023-12-29 12:27:48 : INFO] - Re_Smush_It_Task - Attachment ID : 981, Started on : December 29, 2023 12:27:42 
+[2023-12-29 12:27:48 : INFO] - File: photo1687049206-removebg-preview-e1703662414661.png, Compression quality: 60 
+[2023-12-29 12:27:48 : INFO] - Backing up the original image - 2023/12/photo1687049206-removebg-preview-e1703662414661-updraft-pre-smush-original.png 
+[2023-12-29 12:27:49 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-29 12:27:49 : INFO] - Successfully optimized the image - /home/vol14_1/ezyro.com/ezyro_35677587/htdocs/wp-content/uploads/2023/12/photo1687049206-removebg-preview-e1703662414661.png.The file was compressed from 77.57 KB to 28.04 KB, saving 63.85 percent, using WP-Optimize 
+[2023-12-29 12:27:49 : INFO] - Completed processing task with ID : 26, and type 'smush' 
+[2023-12-29 12:27:49 : INFO] - Lock option (updraft_lock_smush, wpo2_options) released 
+[2023-12-29 12:27:49 : INFO] - Successfully processed the queue (smush). 26 tasks were processed out of 26. 
+[2023-12-29 12:27:49 : INFO] - Lock option (updraft_lock_smush, wpo2_options) was deleted from the database 
+[2023-12-29 12:27:49 : INFO] - Cleaning up tasks of type (smush). A total of 26 tasks will be deleted. 
